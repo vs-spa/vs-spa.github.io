@@ -1,0 +1,918 @@
+padding-top: 4em;.about_hero_victoria_img {
+display: flex;
+justify-content: flex-end;
+align-items: center;
+}background: url("../img/services/massage.jpg");
+background-size: cover;
+background-position: center;background: url("../img/services/massage.jpg");
+background-size: cover;
+background-position: center;.services_onhover:hover,.services_onhover.pg-state-hover{
+    background-color:rgba(250,250,250,0.6);
+
+}.services_onhover:hover,.services_onhover.pg-state-hover{
+    background-color:rgba(250,250,250,0.6);
+
+}.services_onhover:hover,.services_onhover.pg-state-hover{
+    background-color:rgba(250,250,250,0.6);
+
+}.services_onhover:hover,.services_onhover.pg-state-hover{
+    background-color:rgba(250,250,250,0.6);
+
+}.hero_scroll_btn {
+background-color:transparent !important;
+border:3px solid #efefef;
+padding:1px 10px;
+margin-top:13vw;
+border-radius:50px 50px 50px 50px
+}.hero_scroll_btn_downicon {
+font-size:3em;
+font-weight:100;
+color:#efefef
+}
+.services_section {
+padding: 0
+}
+.services_section_long_img {
+height:20vh;
+position:relative
+}.services_section_tallright {
+background-image:url("../img/services/flowers.jpg");
+background-size:cover;
+background-position:center;
+height:80vh;
+padding:0
+}
+.services_section_left {
+display:flex;
+flex-flow: column wrap;
+height:80vh;
+padding: 0
+}
+.services_section_middle {
+display: flex;
+flex-flow: column wrap;
+height:80vh;
+padding:0
+}
+.services_section_middle_top {
+width:100%;
+height:100%;
+background-image:url("../img/services/dermapen.svg");
+background-size:  cover;
+display:flex
+}
+.services_section_middle_bottom {
+background-color:#d9b0d5;
+padding:3em 8em;
+color:#efefef
+}
+.services_section_left_bottom {
+height:50%
+}
+.services_section_left_bottom_bottom {
+background-image:url("../img/services/book_now_img.png");
+background-size: cover;
+background-position: center;
+color:#777777;
+height:50%;
+display: flex;
+flex-flow:column wrap;
+justify-content:center;
+align-items:center;
+border:1px solid #F1D2EF
+}
+.services_section_left_bottom_top {
+height:50%;
+width:100%;
+display:flex
+}
+.services_section_left_bottom_right {
+background-image:url("../img/services/nails.jpg");
+background-size:cover;
+width: 50%;
+height:100%
+}
+
+.dedicated_section {
+background-color:#631B4B;
+padding:20vh 15vw;
+text-transform:uppercase;
+color:#efefef;
+border-radius:3px
+}
+.testimonials_main {
+padding:0;
+background-color: grey
+}
+.testimonials_section {
+background-color:#833887
+}
+.testimonials_first_img {
+background-image:url("../img/testimonials/svetlana_turman.svg");
+background-size:  cover;
+background-position: center;
+height: 60vh;
+width:40vw
+}
+.testimonials_flex_annotation {
+}
+.testimonials_flex {
+display:flex;
+flex-flow: column wrap;
+justify-content:center;
+align-items:center;
+padding:10vw;
+height:80vh;
+background-color:#ebdcef
+}
+.testimonials_column {
+padding:0
+}
+
+.testimonials_carousel_flex {
+display: flex;
+justify-content: center;
+align-items:center;
+background-color:#EBDCEF
+}
+.testimonials_carousel_annotation_name {
+align-item:flex-end
+}
+.hero-container {
+display:flex;
+flex-flow:column nowrap;
+justify-content:center;
+align-items:center;
+padding-top:40vh
+}.services_section_left_top {
+background-image:url("../img/services/massage.jpg");
+height:50%;
+background-size:cover;
+background-position:center
+}
+.testimonials_carousel_annotation_name {
+align-self:flex-end;
+font-family:oswald, sans serif;
+text-align:right
+}
+.testimonials_p {
+font-size:2em;
+font-family:quicksand, sans serif
+}
+.bloomnaturally {
+margin-left: 1em;
+}
+#services:hover,#services.pg-state-hover{
+  background-color:black;
+}
+.main_products {
+background-color:#EBDCEF
+}
+.main_product_hover {
+display:flex;
+justify-content:center;
+align-items:center
+}
+.main_product_hover_descr {
+color:rgba(250,250,250,1) !important;
+font-size:1.8em;
+font-weight:900;
+font-family:oswald, sans serif
+}
+.main_product_hover_bg_descr {
+background-color:black;
+opacity:1;
+display:inline;
+position:relative;
+z-index: 20
+}
+.navbar_border {
+border-color:rgba(250,250,250,0)
+}
+.services_onhover {
+height: 100%;
+width: 100%;
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.services_onhover:hover,.services_onhover.pg-state-hover{
+    opacity:0.6;
+
+}
+
+.main_product_div_seemore:hover .main_product_seemore,.main_product_div_seemore.pg-state-hover .main_product_seemore {
+color:#efefef;
+}
+.services_descriptionhover {
+position: relative;
+z-index: 100;
+font-size:2em;
+color: black;
+text-transform: uppercase;
+font-family: oswald, sans serif;
+border:  2px solid black;
+opacity: 0;
+}
+.services_desonhover:hover .services_descriptionhover,.services_desonhover.pg-state-hover .services_descriptionhover{
+
+opacity:1;
+
+}
+.footer_flex {
+display:flex;
+justify-content:space-between;
+margin-top:3em
+}
+.footer_icon_flex {
+display:flex;
+justify-content:space-around;
+font-size:2em;
+color:#efefef
+}
+.footer_color {
+background-color:
+}
+.footer_color {
+background-color: ;
+}
+.footer_color {
+background-color: ;
+}
+.footer_color {
+background-color: #;
+}
+.footer_color {
+background-color: #;
+}
+.footer_color {
+background-color: #631B4B;
+}#mce-EMAIL.footer_input {
+background-color: #842866;
+border: none;
+border-bottom: 3px solid #efefef;
+border-radius: 0px;
+margin-top: 1em;
+}
+.services_moreservices {
+color: #777777;
+font-size: 2.3em;
+font-family: quicksand, sans serif;
+}
+.hero_scroll_btn:hover .hero_scroll_btn_downicon,.hero_scroll_btn.pg-state-hover .hero_scroll_btn_downicon{
+color:black;
+}
+.footer_designedby {
+display: flex;
+justify-content: flex-end;
+}.footer_font {
+font-family: oswald, sans serif;
+text-transform: uppercase;
+
+}
+#mc_embed_signup input.button{
+  border:0;
+  background-color: #842866;
+  width:50%;
+
+}
+.footer_me {
+color: #8f8f8f;
+}
+
+.btn.btn-primary:hover,.btn.btn-primary.pg-state-hover{
+  background-color: #EBDCEF;
+  color:#8f8f8f;
+
+}
+.blooom_naturally_section {
+display: flex;
+flex-flow: row wrap;
+justify-content: center;
+align-items: center;
+padding: 4em;
+}
+.blooom_naturally_annotation {
+font-size: 5.2em;
+color: #631B4B;
+text-align: right;
+line-height: 56px;
+}
+.services_section_left_botom_left {
+background-image: url("../img/services/wax2.jpg");
+}
+.serv_hero_img {
+background-image: url("../img/services/massage.jpg") !important;
+background-size: cover !important;
+}
+.serv_serv_violet {
+background: #631B4B;
+display: flex;
+flex-flow: row wrap;
+justify-content: center;
+align-items: center;
+padding-top: 5em;
+padding-bottom: 5em;
+}.serv_serv_img {
+width: 40em;
+height: 60vh;
+margin: 3vw;
+background-size: cover;
+background-position: top;
+}
+.serv_serv_div {
+background: #EBDCEF;
+padding: 2em;
+width: 35em;
+margin: 3vw;
+box-shadow: 15px 15px 0px 0px rgba(188,176,191,1);
+position: relative;;
+}
+.serv_serv_price {
+font-weight: 900;
+font-size: 1.5em;
+}
+.serv_serv_title {
+font-weight: 900;
+font-size: 1.5em;
+text-align: center;
+text-transform: uppercase;
+}
+.serv_serv_booknow {
+background: #631b4b;
+color: #efefef;
+margin: 0%;
+padding: 0 0.9em;
+height: 3.3em;
+}
+.serv_serv_bookprice {
+display: flex;
+justify-content: space-between;
+}
+.serv_serv_booknow_p {
+color: #efefef;
+font-weight: 900;
+font-size: 1.3em;
+}
+.serv_serv_pink {
+background: #ebdcef;
+}
+.serv_serv_pink {
+background-color: #EBDCEF !important;
+}
+.serv_serv_purple {
+background: #631B4B;
+color: #631B4B;
+}
+.serv_serv_pinkcolor {
+color: #efefef;
+}
+.serv_serv_purplecolor {
+color: #631B4B;
+}
+.serv_serv_advfacial {
+background-image: url("../img/services/massage.jpg");
+}
+.serv_serv_antiaging {
+background-image: ;
+}.serv_serv_antiaging {
+    background-image:url("../img/products/cleansing_tonic.svg")
+}
+.serv_serv_peeling {
+background-image: url("../img/services/peeling.jpg");
+}
+.serv_serv_aroma {
+background-image: url("../img/services/aroma.jpg");
+}
+.prod_hero_img {
+background-image: url("../img/products/hero.svg") !important;
+background-size: cover !important;
+background-position: center;
+}.prod_rosagraf_sec {
+background-color: #631B4B;
+padding: 5em 0;
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.prod_rosagraf_h2 {
+position: relative;
+top: -2.2em;
+font-weight: 500;
+}
+.prod_rosagraf_p {
+position: relative;
+top: -4em;
+}
+.prod_rosagraf_logo {
+background-image: url("../img/products/logo_large.png");
+background-size: cover;
+height: 110px;
+width: 155px;
+margin-left: 55%;
+bottom: 3em;
+position: relative;
+}
+.prod_explore {
+background-color: ;
+}.prod_explore {
+    background-color:#631B4B;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20vh;
+
+}
+.prod_explore_br {
+width: 30vw;
+height: 2px;
+background-color: #efefef;
+}.prod_explore_basic {
+    background-image:url("../img/products/cleansing_milk.svg");
+    background-size:cover;
+    background-position:center;
+
+}.main_product_seemore {
+font-size: 2em;
+font-weight: 900;
+color: #631b4b;
+line-height: 0.9em;
+
+}.main_product_div_seemore {
+position: absolute;
+z-index: 2;
+height: 100%;
+width: 100%;
+padding: 0.4em;
+padding-left: 2em;
+top: 0;
+left: 0;
+display: flex;
+flex-flow: column nowrap;
+justify-content: center;
+}
+.main_product_img_position {
+position: relative;
+z-index: 1;
+}
+.main_modal {
+background-color: #631b4b;
+}
+.main_modal_close {
+color: white;
+font-size: 1.5em;
+}
+.services_middle_top_link {
+height: 50%;
+}
+.prod_clean_peeling {
+background-image: url("../img/products/cleansing_peeling.svg");
+}
+.prod_clean_mango {
+background-image: url("../img/products/cleansing_mango.svg");
+}
+.prod_erbana_day_night {
+background-image: url(../img/products/erbana_day_night.svg);
+}
+.prod_alegra_day
+ {
+background-image: url(../img/products/prod_alegra_day.svg);
+}
+
+.prod_alegra_night
+ {
+background-image: url(../img/products/prod_alegra_night.svg);
+}
+
+.prod_rosana_day
+ {
+background-image: url(../img/products/rosana_day.svg);
+}
+.prod_rosana_night
+ {
+background-image: url(../img/products/prod_rosana_night.svg);
+}
+.prod_exalia_day
+ {
+background-image: url(../img/products/prod_exalia_day.svg);
+}
+.prod_exalia_night
+ {
+background-image: url(../img/products/prod_exalia_night.svg);
+}
+
+.prod_amintamed_wash {
+background-image: url(../img/products/prod_amintamed_wash.svg);
+}
+.prod_amintamed_tonic
+{
+background-image: url(../img/products/prod_amintamed_tonic.svg);
+}
+
+.prod_amintamed_balance_day
+{
+background-image: url(../img/products/prod_amintamed_balance_day.svg);
+}
+
+.prod_amintamed_balance_night
+{
+background-image: url(../img/products/prod_amintamed_balance_night.svg);
+}
+.prod_amintamed_mask
+{
+background-image: url(../img/products/prod_amintamed_mask.svg);
+}
+
+.prod_amintamed_camomile
+{
+background-image: url(../img/products/prod_amintamed_camomile.svg);
+}
+
+.prod_amintamed_antispot
+{
+background-image: url(../img/products/prod_amintamed_antispot.svg);
+}
+.prod_blue_gel_hydratante
+{
+background-image: url(../img/products/prod_blue_gel_hydratante.svg);
+}
+
+.prod_blue_creme_hydratante
+{
+background-image: url(../img/products/prod_blue_creme_hydratante.svg);
+}
+.prod_creme_regenerative
+{
+background-image: url(../img/products/prod_creme_regenerative.svg);
+}
+.prod_beauty_serum
+{
+background-image: url(../img/products/prod_beauty_serum.svg);
+}
+.prod_augen_gel
+{
+background-image: url(../img/products/prod_augen_gel.svg);
+}
+.prod_augen_creme
+{
+background-image: url(../img/products/prod_augen_creme.svg);
+}
+.prod_mask_regenerative
+{
+background-image: url(../img/products/prod_mask_regenerative.svg);
+}
+.prod_cerasome_regenerative_concentrate
+{
+background-image: url(../img/products/prod_cerasome_regenerative_concentrate.svg);
+}
+
+.prod_stem_cell
+{
+background-image: url(../img/products/prod_stem_cell.svg);
+}
+.prod_stem_cell_serum
+{
+background-image: url(../img/products/prod_stem_cell_serum.svg);
+}
+.prod_tea_time_cream
+{
+background-image: url(../img/products/prod_tea_time_cream.svg);
+}
+.prod_white_tea_mask
+{
+background-image: url(../img/products/prod_white_tea_mask.svg);
+}
+
+.prod_super_day_protection
+{
+background-image: url(../img/products/prod_super_day_protection.svg);
+}
+
+.prod_super_night_care
+{
+background-image: url(../img/products/prod_super_night_care.svg);
+}
+.prod_24hr_hydro_care
+{
+background-image: url(../img/products/prod_24hr_hydro_care.svg);
+}
+.prod_fruit_acid_cream
+{
+background-image: url(../img/products/prod_fruit_acid_cream.svg);
+}
+.prod_antiaging_serum
+{
+background-image: url(../img/products/prod_antiaging_serum.svg);
+}
+.prod_forty_cream
+{
+background-image: url(../img/products/prod_forty_cream.svg);
+}
+.prod_filling_system
+{
+background-image: url(../img/products/prod_filling_system.svg);
+}
+.prod_baobab_cream
+{
+background-image: url(../img/products/prod_baobab_cream.svg);
+}
+
+.prod_baobab_cream_light
+{
+background-image: url(../img/products/prod_baobab_cream_light.svg);
+}
+.prod_helix_aspersa_24hr_cream
+{
+background-image: url(../img/products/prod_helix_aspersa_24hr_cream.svg);
+}
+.prod_helix_aspersa_revitalizing_cream
+{
+background-image: url(../img/products/prod_helix_aspersa_revitalizing_cream.svg);
+}
+.prod_thalasso_set
+{
+background-image: url(../img/products/prod_thalasso_set.svg);
+height:40vh;
+}
+
+
+
+.prod_section_buttons {
+background-color: #EBDCEF;
+padding: 6vw;
+display: flex;
+flex-flow: row nowrap;
+justify-content: center;
+align-items: center;
+}
+.prod_section_buttons_unselected, .prod_section_buttons_selected {
+width: 3em;
+height: 3em;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0.5em;
+
+}
+
+.prod_section_buttons_selected{
+  background: #b03085;
+  border: solid 1px #2A4E77;
+  text-decoration: none;
+  padding: 10px 15px;
+	color: #FFF;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	border: solid 1px #441334;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+}
+
+.prod_section_buttons_unselected_p {
+color: #efefef;
+font-size: 1.8em;
+font-weight: bold;
+}
+
+.prod_section_buttons_selected_p {
+color: #efefef;
+font-size: 1.8em;
+font-weight: bold;
+}
+
+.prod_section_buttons_unselected {
+	padding: 10px 15px;
+	background: #631B4B;
+	color: #FFF;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	border: solid 1px #441334;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+	-webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+	-webkit-transition-duration: 0.2s;
+	-moz-transition-duration: 0.2s;
+	transition-duration: 0.2s;
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	user-select:none;
+}
+.prod_section_buttons_unselected:hover,.prod_section_buttons_unselected.pg-state-hover {
+	background: #b03085;
+	border: solid 1px #2A4E77;
+	text-decoration: none;
+}
+.prod_section_buttons_unselected:active,.prod_section_buttons_unselected.pg-state-active {
+	-webkit-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.6);
+	-moz-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.6);
+	box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.6);
+	background: #441334;
+	border: solid 1px #631B4B;
+}#header-3 .about_hero_img {
+background: url('../img/hero_about.jpg') no-repeat center center;
+}
+.about_hero_victoria {
+padding: 6vw;
+background-color: #631B4B;
+}
+.about_hero_victoria_img {
+display: flex;
+justify-content: flex-end;
+align-items: center;
+}
+
+@media (max-width:1190px){
+  .about_hero_victoria_img {
+  justify-content: center;
+  }
+}
+.about_hero_victoria_h2 {
+color: #efefef;
+font-family: quicksand;
+}
+.about_f {
+font-size: 30em;
+font-family: serif;
+position: relative;
+margin-bottom: -0.25em;
+padding: 0;
+}
+/* .about_facility {
+display: flex;
+flex-flow: row nowrap;
+align-items: flex-end;
+justify-content: flex-end;
+padding: 0;
+margin: 0;
+position: relative;
+} */
+.about_facility_img {
+padding: 0;
+background-image: url("../img/aboutus_hero.jpg");
+background-size: cover;
+background-position: 25%;
+height: 60vh;
+margin: 0;
+}
+.about_facility_row {
+position: relative;
+height: 60vh;
+}
+.about_facility_p {
+font-family: serif;
+font-size: 4em;
+bottom: 0.8em;
+position: relative;
+}
+.about_facility_br {
+height: 0.2em;
+bottom: 4.6em;
+background-color: black;
+width: 11em;
+position: absolute;
+z-index: 3;
+}
+.about_desc_img {
+background-image: url("../img/rosehip.jpg");
+background-position: center;
+background-size: cover;
+height: 30vh;
+}
+.about_desc_p {
+padding: 2em;
+display: flex;
+align-items: center;
+height: 30vh;
+}
+.about_facility_section {
+height: 60vh;
+background-color: #ebdcef;
+}
+.about_facility {
+display: flex;
+flex-flow: row wrap;
+justify-content: flex-end;
+align-items: flex-end;
+height: 60vh;
+}#header-3 .hero h1.about_hero_h1 {
+color: black;
+}
+.index_test_round {
+border-radius:  50%;
+}
+.index_test_h4 {
+position: absolute;
+display: block;
+bottom: 5%;
+text-align: center;
+width: 100%;
+font-family: quicksand, sans serif;
+}
+.index_test_col {
+height: 560px;
+background-color: #EBDCEF;
+}#header-3 .hero h1.contact_hero_h1 {
+color: #8f8f8f;
+}.contact_form_input {
+background-color: #8c256a;
+border-top: none;
+border-right: none;
+border-left: none;
+
+border-bottom: 3px solid #df8ac3;
+
+color: #efefef;
+
+font-family: quicksand;
+
+font-size: 1.3em;
+
+border-radius: 3px;
+
+margin: 0.5em;
+}
+.contact_form_input_message {
+height: 30vh;
+padding-bottom: 30%;
+padding-top: 1em;
+}
+.contact_form_input_btn {
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: #EBDCEF;
+font-family: quicksand;
+font-size: 1.3em;
+margin-top: 0.5em;
+}
+.about_sec_img {
+background-image: url("../img/aboutus_hero_white.jpg");
+height: 40vh;
+background-position: center;
+background-size: cover;
+display: flex;
+justify-content: center;
+align-items: center;
+}.about_sec_div {
+padding: 0.3em;
+border: 3px solid #efefef;
+
+}.about_sec_p {
+    font-size: 2em;
+color: #efefef;
+font-weight: 900;
+}.about_comesee_col {
+margin-top: 4em;
+    margin-bottom: 4em;
+
+}
+.about_comesee_sec {
+background-color: #f1d2ef;
+}
+.about_comesee_divphone {
+display: flex;
+justify-content: flex-start;
+align-items: center;
+}
+.about_comesee_icon {
+margin-top: 0.2em;
+margin-right: 0.2em;
+font-size: 1.8em;
+color: #777777;
+}
+.about_comesee_p {
+font-size: 1.4em;
+}
+.about_comesee_h3 {
+margin-bottom: 5px;
+}
+.about_lg_map {
+width: 99vw;
+height: 30vw;
+}.contact_hero_img {
+background-image: url("../img/contactus_hero.jpg");
+
+}
+.index_hero_img {
+background-image: url("../img/hero.jpeg");
+}
+.icontact_hero_pulldown_h2 {
+padding-top: 60vh;
+font-size: 1.2em;
+}
+.footer_form {
+display: flex;
+flex-flow: column;
+justify-content: center;
+align-items: center;
+}
+.footer_mc_form {
+background: #631B4B;
+}
