@@ -1,4 +1,4 @@
-padding-top: 4em;.about_hero_victoria_img {
+http://www.lavr.ca/;http://www.lavr.ca/;padding-top: 4em;.about_hero_victoria_img {
 display: flex;
 justify-content: flex-end;
 align-items: center;
@@ -22,7 +22,7 @@ background-position: center;.services_onhover:hover,.services_onhover.pg-state-h
 background-color:transparent !important;
 border:3px solid #efefef;
 padding:1px 10px;
-margin-top:13vw;
+margin-top:10vw;
 border-radius:50px 50px 50px 50px
 }.hero_scroll_btn_downicon {
 font-size:3em;
@@ -143,7 +143,7 @@ display:flex;
 flex-flow:column nowrap;
 justify-content:center;
 align-items:center;
-padding-top:40vh
+padding-top:35vh
 }.services_section_left_top {
 background-image:url("../img/services/massage.jpg");
 height:50%;
@@ -268,11 +268,10 @@ color:black;
 .footer_designedby {
 display: flex;
 justify-content: flex-end;
-}.footer_font {
+}#mc-embedded-subscribe .footer_font {
 font-family: oswald, sans serif;
-text-transform: uppercase;
 background-color: #631B4B;
-
+text-transform: ;
 }
 .footer_me {
 color: #8f8f8f;
@@ -910,4 +909,51 @@ align-items: center;
 }
 .footer_mc_form {
 background: #631B4B;
+}
+.serv_antaging_true {
+background-image: url("../img/services/anti_aging.jpg");
+}
+.serv_sal-peel {
+background-image: url("../img/services/sal_peel.jpg");
+}
+.serv_noni_peel {
+background-image: url("../img/services/noni_peel.jpg");
+}
+.serv_dermapen {
+background-image: url(../img/services/dermapen.svg);
+}
+.serv_half_legs {
+background: url("../img/services/half_legs.jpg");
+}
+.serv_manicure {
+background: url("../img/services/manicure.jpg");
+}
+.serv_pedicure {
+background: url("../img/services/pedicure.jpg");
+background-position: right;
+}
+.serv_wax2 {
+background: url("../img/services/wax2.jpg");
+background-position: center;
+background-size: cover;
+}
+.serv_underarm {
+background: url("../img/services/underarm.jpg");
+background-position: center;
+background-size: cover;
+}
+.serv_wax_face {
+background-image: url("../img/services/wax_face.jpg");
+}
+.serv_eyelash {
+background-image: url("../img/services/eyelash.jpg");
+}
+.serv_wax1 {
+background-image: url("../img/services/wax1.jpg");
+}
+.services_hero {
+background-image: url("../img/services/massage.jpg");
+}
+.modal_video {
+padding: 0;
 }

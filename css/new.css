@@ -954,3 +954,6 @@ background-image: url("../img/services/wax1.jpg");
 .services_hero {
 background-image: url("../img/services/massage.jpg");
 }
+.modal_video {
+padding: 0;
+}
