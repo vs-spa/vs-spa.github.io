@@ -963,10 +963,10 @@ em
 
 /* LINKS */
 
-a { color: #631B4B; }
+a { color: #1abc9c; }
 
 a:hover,a.pg-state-hover {
-    color: #B0AFAD;
+    color: #16a085;
     text-decoration: none;
     -moz-transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
@@ -1736,7 +1736,7 @@ fieldset[disabled] .form-control
 .panel-title > a.collapsed,
 .panel-title > a.collapsed span
 {
-    color: #B0AFAD;
+    color: #16A085;
 }
 
 .panel-title > a,
