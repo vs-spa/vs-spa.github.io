@@ -957,11 +957,11 @@ background-image: url("../img/services/massage.jpg");
 .index_logo_flex {
 display: flex;
 align-items: center;
-margin-top: 8px;
+margin-top: 10px;
 }
 .cart {
 margin-top: 15px;
 }
 .index_russia {
-margin-left: 0.8em;
+margin: 0.1em;
 }
