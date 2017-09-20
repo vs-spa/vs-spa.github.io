@@ -963,10 +963,10 @@ em
 
 /* LINKS */
 
-a { color: #631B4B; }
+a { color: #B0AFAD; }
 
 a:hover,a.pg-state-hover {
-    color: #B0AFAD;
+    color: #631B4B;
     text-decoration: none;
     -moz-transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;

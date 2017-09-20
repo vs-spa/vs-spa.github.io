@@ -22,7 +22,7 @@ background-position: center;.services_onhover:hover,.services_onhover.pg-state-h
 background-color:transparent !important;
 border:3px solid #efefef;
 padding:1px 10px;
-margin-top:13vw;
+margin-top:10vw;
 border-radius:50px 50px 50px 50px
 }.hero_scroll_btn_downicon {
 font-size:3em;
@@ -143,7 +143,7 @@ display:flex;
 flex-flow:column nowrap;
 justify-content:center;
 align-items:center;
-padding-top:40vh
+padding-top:35vh
 }.services_section_left_top {
 background-image:url("../img/services/massage.jpg");
 height:50%;
@@ -950,4 +950,22 @@ background-image: url("../img/services/eyelash.jpg");
 }
 .serv_wax1 {
 background-image: url("../img/services/wax1.jpg");
+}
+.services_hero {
+background-image: url("../img/services/massage.jpg");
+}
+.index_logo_flex {
+display: flex;
+align-items: center;
+margin-top: 8px;
+}
+.cart {
+margin-top: 15px;
+}
+.index_russia {
+margin-left: 0.8em;
+}
+.prod_shipping {
+height: 60vh;
+justify-content: center;
 }
