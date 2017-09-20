@@ -468,6 +468,7 @@ Version: 1.0
 #header-3 nav {
 	background-color: rgba(180, 180, 199, 0.5);
 	margin-top: -1px;
+	padding: 0.2em;
 }
 
 #header-3 nav ul {
