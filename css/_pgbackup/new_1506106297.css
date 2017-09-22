@@ -951,3 +951,24 @@ background-image: url("../img/services/eyelash.jpg");
 .serv_wax1 {
 background-image: url("../img/services/wax1.jpg");
 }
+.services_hero {
+background-image: url("../img/services/massage.jpg");
+}
+.index_logo_flex {
+display: flex;
+align-items: center;
+margin-top: 8px;
+}
+.cart {
+margin-top: 15px;
+}
+.index_russia {
+margin-left: 0.8em;
+}
+.prod_shipping {
+height: 60vh;
+justify-content: center;
+}
+.footer_fb_icon {
+color: #efefef;
+}
