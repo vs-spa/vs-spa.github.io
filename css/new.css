@@ -963,9 +963,12 @@ margin-top: 15px;
 margin-left: 0.8em;
 }
 .prod_shipping {
-height: 60vh;
+height: 80vh;
 justify-content: center;
 }
 .footer_fb_icon {
 color: #efefef;
+}
+.prod_ship {
+width: 80vw;
 }
