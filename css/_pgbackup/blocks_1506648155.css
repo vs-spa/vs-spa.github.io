@@ -462,6 +462,7 @@ Version: 1.0
 	position: absolute;
 	left: 15px;
 	top: 0;
+	max-width: 150px;
 }
 
 #header-3 nav {

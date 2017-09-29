@@ -376,7 +376,7 @@ background-image: ;
 background-image: url("../img/services/services_new/peel.png");
 }
 .serv_serv_aroma {
-background-image: url("../img/services/services_new/essential_facial.png");
+background-image: url("../img/services/aroma.jpg");
 }
 .prod_hero_img {
 background-image: url("../img/products/hero.svg") !important;
@@ -914,7 +914,7 @@ background-image: url("../img/services/services_new/anti_aging.png");
 background-image: url("../img/services/sal_peel.jpg");
 }
 .serv_noni_peel {
-background-image: url("../img/services/services_new/noni_peel.png");
+background-image: url("../img/services/noni_peel.jpg");
 }
 .serv_dermapen {
 background-image: url(../img/services/dermapen.svg);

@@ -373,10 +373,10 @@ background-image: ;
     background-image:url("../img/products/cleansing_tonic.svg")
 }
 .serv_serv_peeling {
-background-image: url("../img/services/services_new/peel.png");
+background-image: url("../img/services/peeling.jpg");
 }
 .serv_serv_aroma {
-background-image: url("../img/services/services_new/essential_facial.png");
+background-image: url("../img/services/aroma.jpg");
 }
 .prod_hero_img {
 background-image: url("../img/products/hero.svg") !important;
@@ -908,13 +908,13 @@ align-items: center;
 background: #631B4B;
 }
 .serv_antaging_true {
-background-image: url("../img/services/services_new/anti_aging.png");
+background-image: url("../img/services/anti_aging.jpg");
 }
 .serv_sal-peel {
 background-image: url("../img/services/sal_peel.jpg");
 }
 .serv_noni_peel {
-background-image: url("../img/services/services_new/noni_peel.png");
+background-image: url("../img/services/noni_peel.jpg");
 }
 .serv_dermapen {
 background-image: url(../img/services/dermapen.svg);
