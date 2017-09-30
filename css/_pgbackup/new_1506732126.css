@@ -842,7 +842,6 @@ background-color: #EBDCEF;
 font-family: quicksand;
 font-size: 1.3em;
 margin-top: 0.5em;
-color:#581942;
 }
 .about_sec_img {
 background-image: url("../img/aboutus_hero_white.jpg");
@@ -951,6 +950,11 @@ background-image: url("../img/services/wax1.jpg");
 }
 .services_hero {
 background-image: url("../img/services/massage.jpg");
+}
+.index_logo_flex {
+display: flex;
+align-items: center;
+margin-top: 4px;
 }
 .cart {
 margin-top: 15px;
