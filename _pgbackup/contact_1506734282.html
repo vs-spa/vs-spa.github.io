@@ -96,15 +96,13 @@
                         <h3>YOUR INFORMATION</h3>
                     </div>
                 </div>
-                <form role="form" id="contactform" class="row" method="post">
+                <form role="form" id="vsspacontactform" class="row" method="post">
                     <input type="hidden" name="_next" value="http://vs-spa.com/" />
-                    <div class="row">
-                        <div class="col-sm-12 col-xs-12 col-lg-3 col-md-4">
-                            <input name="First_name" type="text" class="form-control contact_form_input" placeholder="First name">
-                        </div>
-                        <div class="col-sm-12 col-xs-12 col-lg-3 col-md-4">
-                            <input name="Last_name" type="text" class="form-control contact_form_input" placeholder="Last name">
-                        </div>
+                    <div class="col-sm-12 col-xs-12 col-lg-3 col-md-4">
+                        <input name="First_name" type="text" class="form-control contact_form_input" placeholder="First name">
+                    </div>
+                    <div class="col-sm-12 col-xs-12 col-lg-3 col-md-4">
+                        <input name="Last_name" type="text" class="form-control contact_form_input" placeholder="Last name">
                     </div>
                     <div class="row">
                         <div class="col-sm-12 col-xs-12 col-lg-3 col-md-4">
@@ -120,11 +118,11 @@
                         </div>
                         <input type="hidden" name="_subject" value="RoarTheWeb Contact form submission" />
                         <input type="text" name="_gotcha" style="display:none;" />
-                        <input class="contact_form_input_btn col-md-2 col-lg-offset-10 col-md-offset-10 col-sm-offset-10 col-sm-2 col-lg-2 col-xs-6 col-xs-offset-6" type="submit" />
+                        <input class="contact_form_input_btn col-md-2 col-lg-offset-10 col-md-offset-10 col-sm-offset-10 col-sm-2 col-lg-2 col-xs-6 col-xs-offset-6" type="submit" /><p class="contact_form_input_btn">submit</p>
                     </div>
                 </form>
                 <script>
-var contactform =  document.getElementById('contactform');
+var contactform =  document.getElementById('vsspacontactform');
 contactform.setAttribute('action', 'http://formspree.io/' + 'roartheweb' + '@' + 'gmail' + '.' + 'com');
 </script>
             </div>
