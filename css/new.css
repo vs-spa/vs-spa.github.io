@@ -328,6 +328,7 @@ position: relative;;
 .serv_serv_price {
 font-weight: 900;
 font-size: 1.5em;
+text-transform: uppercase;
 }
 .serv_serv_title {
 font-weight: 900;
@@ -350,6 +351,7 @@ justify-content: space-between;
 color: #efefef;
 font-weight: 900;
 font-size: 1.3em;
+text-transform: uppercase;
 }
 .serv_serv_pink {
 background-color: #EBDCEF !important;
