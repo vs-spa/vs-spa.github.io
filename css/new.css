@@ -287,10 +287,10 @@ display: flex;
 flex-flow: row wrap;
 justify-content: center;
 align-items: center;
-padding: 4em;
+padding: 4vw;
 }
 .blooom_naturally_annotation {
-font-size: 5.2em;
+font-size: 5.2vw;
 color: #631B4B;
 text-align: right;
 line-height: 56px;

@@ -287,7 +287,7 @@ display: flex;
 flex-flow: row wrap;
 justify-content: center;
 align-items: center;
-padding: 4em;
+padding: 4vw;
 }
 .blooom_naturally_annotation {
 font-size: 5.2em;
@@ -315,7 +315,7 @@ width: 40em;
 height: 60vh;
 margin: 3vw;
 background-size: cover;
-background-position: top;
+background-position: center;
 }
 .serv_serv_div {
 background: #EBDCEF;
@@ -328,6 +328,7 @@ position: relative;;
 .serv_serv_price {
 font-weight: 900;
 font-size: 1.5em;
+text-transform: uppercase;
 }
 .serv_serv_title {
 font-weight: 900;
@@ -350,6 +351,7 @@ justify-content: space-between;
 color: #efefef;
 font-weight: 900;
 font-size: 1.3em;
+text-transform: uppercase;
 }
 .serv_serv_pink {
 background-color: #EBDCEF !important;
@@ -373,10 +375,10 @@ background-image: ;
     background-image:url("../img/products/cleansing_tonic.svg")
 }
 .serv_serv_peeling {
-background-image: url("../img/services/peeling.jpg");
+background-image: url("../img/services/services_new/peel.png");
 }
 .serv_serv_aroma {
-background-image: url("../img/services/aroma.jpg");
+background-image: url("../img/services/services_new/essential_facial.png");
 }
 .prod_hero_img {
 background-image: url("../img/products/hero.svg") !important;
@@ -726,7 +728,6 @@ align-items: center;
 }
 .about_hero_victoria_h2 {
 color: #efefef;
-font-family: quicksand;
 }
 .about_f {
 font-size: 30em;
@@ -842,6 +843,7 @@ background-color: #EBDCEF;
 font-family: quicksand;
 font-size: 1.3em;
 margin-top: 0.5em;
+color:#581942;
 }
 .about_sec_img {
 background-image: url("../img/aboutus_hero_white.jpg");
@@ -859,6 +861,7 @@ border: 3px solid #efefef;
     font-size: 2em;
 color: #efefef;
 font-weight: 900;
+text-transform: uppercase;
 }.about_comesee_col {
 margin-top: 4em;
     margin-bottom: 4em;
@@ -908,13 +911,13 @@ align-items: center;
 background: #631B4B;
 }
 .serv_antaging_true {
-background-image: url("../img/services/anti_aging.jpg");
+background-image: url("../img/services/services_new/anti_aging.png");
 }
 .serv_sal-peel {
 background-image: url("../img/services/sal_peel.jpg");
 }
 .serv_noni_peel {
-background-image: url("../img/services/noni_peel.jpg");
+background-image: url("../img/services/services_new/noni_peel.png");
 }
 .serv_dermapen {
 background-image: url(../img/services/dermapen.svg);
@@ -951,11 +954,6 @@ background-image: url("../img/services/wax1.jpg");
 .services_hero {
 background-image: url("../img/services/massage.jpg");
 }
-.index_logo_flex {
-display: flex;
-align-items: center;
-margin-top: 4px;
-}
 .cart {
 margin-top: 15px;
 }
@@ -973,5 +971,8 @@ color: #efefef;
 width: 80vw;
 }
 .index_map {
-width: 80vw;
+width: 80%;
+}
+.index_title {
+text-align: center;
 }
